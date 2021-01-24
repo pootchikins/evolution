@@ -6,7 +6,7 @@ body {
   text-align: center;
   margin-top: 100px;
   margin-bottom: 100px;
-  margin-right: 200px;
+  margin-right: 150px;
   margin-left: 80px;
 }
 
@@ -16,7 +16,7 @@ video {
 #flexbox {
   display: flex;
   justify-content: space-between;
-  margin-right: 200px;
+  margin-right: 150px;
 }
 #flextext {
   font-family: helvetica;
