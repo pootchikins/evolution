@@ -1,0 +1,21 @@
+body {
+  font-family: helvetica;
+  background: linen;
+  font-weight: light;
+  color: grey;
+  text-align: center;
+}
+video {
+  align: center;
+}
+#flexbox {
+  display: flex;
+  justify-content: space-between;
+}
+#flextext {
+  font-family: helvetica;
+  text-align: center;
+  width: 35%;
+  
+  
+}
