@@ -16,7 +16,7 @@ video {
 #flexbox {
   display: flex;
   justify-content: space-between;
-  margin-right: 150px;
+  margin-right: 200px;
 }
 #flextext {
   font-family: helvetica;
